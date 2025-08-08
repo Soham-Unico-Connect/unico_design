@@ -807,6 +807,10 @@
         "letterSpacing": "1.2",
         "paragraphSpacing": "48"
       }
+    },
+    "test color": {
+      "$type": "color",
+      "$value": "#092291"
     }
   },
   "$themes": [],
