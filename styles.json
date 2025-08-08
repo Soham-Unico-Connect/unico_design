@@ -1,11 +1,9 @@
 {
   "test": {
-    "test": {
-      "primary": {
-        "$type": "color",
-        "$value": "#56f783",
-        "$description": "test primary"
-      }
+    "test green": {
+      "$type": "color",
+      "$value": "#56f783",
+      "$description": "test green"
     }
   },
   "$themes": [],
