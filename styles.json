@@ -710,6 +710,10 @@
       "padding": {
         "$type": "dimension",
         "$value": "{dimension.md}"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "#293856"
       }
     },
     "boxShadow": {
