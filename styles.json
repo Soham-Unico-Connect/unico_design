@@ -796,13 +796,27 @@
       }
     }
   },
+  "test theme": {
+    "Poppins test": {
+      "$type": "typography",
+      "$value": {
+        "fontFamily": "Poppins",
+        "fontWeight": "Regular",
+        "fontSize": "18",
+        "lineHeight": "120%",
+        "letterSpacing": "1.2",
+        "paragraphSpacing": "48"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "core",
       "light",
       "dark",
-      "theme"
+      "theme",
+      "test theme"
     ]
   }
 }
