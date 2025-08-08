@@ -7,7 +7,7 @@ class AppTextStyles {
     fontStyle: FontStyle.normal,
     fontSize: 14,
     decoration: TextDecoration.none,
-    letterSpacing: 0.1000000014901161,
+    letterSpacing: 0.1,
     height: 1.4285714285714286,
     leadingDistribution: TextLeadingDistribution.even,
   );
@@ -51,7 +51,7 @@ class AppTextStyles {
     fontStyle: FontStyle.normal,
     fontSize: 14,
     decoration: TextDecoration.none,
-    letterSpacing: 0.1000000014901161,
+    letterSpacing: 0.1,
     height: 1.4285714285714286,
     leadingDistribution: TextLeadingDistribution.even,
   );
@@ -84,7 +84,7 @@ class AppTextStyles {
     fontStyle: FontStyle.normal,
     fontSize: 16,
     decoration: TextDecoration.none,
-    letterSpacing: 0.1500000059604645,
+    letterSpacing: 0.15,
     height: 1.5,
     leadingDistribution: TextLeadingDistribution.even,
   );
@@ -95,7 +95,7 @@ class AppTextStyles {
     fontStyle: FontStyle.normal,
     fontSize: 14,
     decoration: TextDecoration.none,
-    letterSpacing: 0.1000000014901161,
+    letterSpacing: 0.1,
     height: 1.4285714285714286,
     leadingDistribution: TextLeadingDistribution.even,
   );
@@ -117,7 +117,7 @@ class AppTextStyles {
     fontStyle: FontStyle.normal,
     fontSize: 16,
     decoration: TextDecoration.none,
-    letterSpacing: 0.1500000059604645,
+    letterSpacing: 0.15,
     height: 1.5,
     leadingDistribution: TextLeadingDistribution.even,
   );
@@ -128,7 +128,7 @@ class AppTextStyles {
     fontStyle: FontStyle.normal,
     fontSize: 14,
     decoration: TextDecoration.none,
-    letterSpacing: 0.1000000014901161,
+    letterSpacing: 0.1,
     height: 1.4285714285714286,
     leadingDistribution: TextLeadingDistribution.even,
   );
@@ -294,7 +294,7 @@ class AppTextStyles {
     fontStyle: FontStyle.normal,
     fontSize: 12,
     decoration: TextDecoration.none,
-    letterSpacing: 0.4000000059604645,
+    letterSpacing: 0.4,
     height: 1.3333333333333333,
     leadingDistribution: TextLeadingDistribution.even,
   );
@@ -327,7 +327,7 @@ class AppTextStyles {
     fontStyle: FontStyle.normal,
     fontSize: 12,
     decoration: TextDecoration.none,
-    letterSpacing: 0.4000000059604645,
+    letterSpacing: 0.4,
     height: 1.3333333333333333,
     leadingDistribution: TextLeadingDistribution.even,
   );
