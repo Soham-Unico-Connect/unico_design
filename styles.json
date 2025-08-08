@@ -811,6 +811,13 @@
     "test color": {
       "$type": "color",
       "$value": "#092291"
+    },
+    "test": {
+      "primary": {
+        "$type": "color",
+        "$value": "#564738",
+        "$description": "test primary"
+      }
     }
   },
   "$themes": [],
