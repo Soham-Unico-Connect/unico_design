@@ -6,10 +6,21 @@
       "$description": "test green"
     }
   },
+  "unico": {
+    "black and grey": {
+      "$type": "color",
+      "$value": "#f0f001"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "regular"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "test"
+      "test",
+      "unico"
     ]
   }
 }
