@@ -65,6 +65,14 @@ class AppDimensions {
 
   static const lineHeightStaticDisplayLargeLineHeight = 64;
 
+  static const letterSpacingStaticHeadlineSmallTracking = 0;
+
+  static const letterSpacingStaticDisplaySmallTracking = 0;
+
+  static const letterSpacingStaticTitleSmallTracking = 0.1;
+
+  static const letterSpacingStaticLabelLargeTracking = 0.1;
+
   static const letterSpacingStaticDisplayMediumTracking = 0;
 
   static const letterSpacingStaticHeadlineLargeTracking = 0;
@@ -74,14 +82,6 @@ class AppDimensions {
   static const letterSpacingStaticTitleLargeTracking = 0;
 
   static const letterSpacingStaticTitleMediumTracking = 0.15;
-
-  static const letterSpacingStaticHeadlineSmallTracking = 0;
-
-  static const letterSpacingStaticDisplaySmallTracking = 0;
-
-  static const letterSpacingStaticTitleSmallTracking = 0.1;
-
-  static const letterSpacingStaticLabelLargeTracking = 0.1;
 
   static const letterSpacingStaticLabelMediumTracking = 0.5;
 

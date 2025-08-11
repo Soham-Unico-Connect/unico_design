@@ -153,6 +153,36 @@ class AppColors {
   
   static const stateLayersTertiaryOpacity16 = Color(0x297d5260); 
   
+  static const stateLayersScrimOpacity08 = Color(0x14000000); 
+  
+  static const stateLayersScrimOpacity10 = Color(0x1a000000); 
+  
+  static const stateLayersScrimOpacity16 = Color(0x29000000); 
+  
+  static const stateLayersInverseSurfaceOpacity08 = Color(0x14322f35); 
+  
+  static const stateLayersInverseSurfaceOpacity10 = Color(0x1a322f35); 
+  
+  static const stateLayersInverseSurfaceOpacity16 = Color(0x29322f35); 
+  
+  static const stateLayersInverseOnSurfaceOpacity08 = Color(0x14f5eff7); 
+  
+  static const stateLayersInverseOnSurfaceOpacity10 = Color(0x1af5eff7); 
+  
+  static const stateLayersInverseOnSurfaceOpacity16 = Color(0x29f5eff7); 
+  
+  static const stateLayersSurfaceContainerHighOpacity08 = Color(0x14ece6f0); 
+  
+  static const stateLayersSurfaceContainerHighOpacity10 = Color(0x1aece6f0); 
+  
+  static const stateLayersSurfaceContainerHighOpacity16 = Color(0x29ece6f0); 
+  
+  static const stateLayersSurfaceContainerHighestOpacity08 = Color(0x14e6e0e9); 
+  
+  static const stateLayersSurfaceContainerHighestOpacity10 = Color(0x1ae6e0e9); 
+  
+  static const stateLayersSurfaceContainerHighestOpacity16 = Color(0x29e6e0e9); 
+  
   static const stateLayersOnTertiaryOpacity08 = Color(0x14ffffff); 
   
   static const stateLayersOnTertiaryOpacity10 = Color(0x1affffff); 
@@ -254,24 +284,6 @@ class AppColors {
   static const stateLayersShadowOpacity10 = Color(0x1a000000); 
   
   static const stateLayersShadowOpacity16 = Color(0x29000000); 
-  
-  static const stateLayersScrimOpacity08 = Color(0x14000000); 
-  
-  static const stateLayersScrimOpacity10 = Color(0x1a000000); 
-  
-  static const stateLayersScrimOpacity16 = Color(0x29000000); 
-  
-  static const stateLayersInverseSurfaceOpacity08 = Color(0x14322f35); 
-  
-  static const stateLayersInverseSurfaceOpacity10 = Color(0x1a322f35); 
-  
-  static const stateLayersInverseSurfaceOpacity16 = Color(0x29322f35); 
-  
-  static const stateLayersInverseOnSurfaceOpacity08 = Color(0x14f5eff7); 
-  
-  static const stateLayersInverseOnSurfaceOpacity10 = Color(0x1af5eff7); 
-  
-  static const stateLayersInverseOnSurfaceOpacity16 = Color(0x29f5eff7); 
   
   static const stateLayersInversePrimaryOpacity08 = Color(0x14d0bcff); 
   
@@ -381,19 +393,9 @@ class AppColors {
   
   static const stateLayersSurfaceContainerOpacity16 = Color(0x29f3edf7); 
   
-  static const stateLayersSurfaceContainerHighOpacity08 = Color(0x14ece6f0); 
-  
-  static const stateLayersSurfaceContainerHighOpacity10 = Color(0x1aece6f0); 
-  
-  static const stateLayersSurfaceContainerHighOpacity16 = Color(0x29ece6f0); 
-  
-  static const stateLayersSurfaceContainerHighestOpacity08 = Color(0x14e6e0e9); 
-  
-  static const stateLayersSurfaceContainerHighestOpacity10 = Color(0x1ae6e0e9); 
-  
-  static const stateLayersSurfaceContainerHighestOpacity16 = Color(0x29e6e0e9); 
-  
   static const addOnsSectionBackground = Color(0xfff5f5f5); 
+  
+  static const mainColoursWhite = Color(0xffffffff); 
   
   static const m3White = Color(0xffffffff); 
   
