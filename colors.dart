@@ -213,17 +213,17 @@ class AppColors {
   
   static const stateLayersShadowOpacity16 = Color(0x29000000); 
   
-  static const stateLayersOnTertiaryContainerOpacity08 = Color(0x14633b48); 
-  
-  static const stateLayersOnTertiaryContainerOpacity10 = Color(0x1a633b48); 
-  
-  static const stateLayersOnTertiaryContainerOpacity16 = Color(0x29633b48); 
-  
   static const stateLayersErrorOpacity08 = Color(0x14b3261e); 
   
   static const stateLayersErrorOpacity10 = Color(0x1ab3261e); 
   
   static const stateLayersErrorOpacity16 = Color(0x29b3261e); 
+  
+  static const stateLayersOnTertiaryContainerOpacity08 = Color(0x14633b48); 
+  
+  static const stateLayersOnTertiaryContainerOpacity10 = Color(0x1a633b48); 
+  
+  static const stateLayersOnTertiaryContainerOpacity16 = Color(0x29633b48); 
   
   static const stateLayersOnErrorOpacity08 = Color(0x14ffffff); 
   
